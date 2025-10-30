@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AswinDevarj/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AswinDevarj/leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/AswinDevarj/leetcode/tree/master/0409-longest-palindrome) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AswinDevarj/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/AswinDevarj/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AswinDevarj/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AswinDevarj/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AswinDevarj/leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
