@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/AswinDevarj/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AswinDevarj/leetcode/tree/master/0409-longest-palindrome) |
+| [1454-remove-palindromic-subsequences](https://github.com/AswinDevarj/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Greedy
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AswinDevarj/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1454-remove-palindromic-subsequences](https://github.com/AswinDevarj/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
