@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AswinDevarj/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AswinDevarj/leetcode/tree/master/0409-longest-palindrome) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AswinDevarj/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AswinDevarj/leetcode/tree/master/0409-longest-palindrome) |
 ## Array
 |  |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/AswinDevarj/leetcode/tree/master/0898-transpose-matrix) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AswinDevarj/leetcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AswinDevarj/leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
