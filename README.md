@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AswinDevarj/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/AswinDevarj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AswinDevarj/leetcode/tree/master/0217-contains-duplicate) |
+| [0498-diagonal-traverse](https://github.com/AswinDevarj/leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/AswinDevarj/leetcode/tree/master/0898-transpose-matrix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AswinDevarj/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -51,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/AswinDevarj/leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/AswinDevarj/leetcode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/AswinDevarj/leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/AswinDevarj/leetcode/tree/master/0898-transpose-matrix) |
 ## Stack
 |  |
