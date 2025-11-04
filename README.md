@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AswinDevarj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AswinDevarj/leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/AswinDevarj/leetcode/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/AswinDevarj/leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AswinDevarj/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/AswinDevarj/leetcode/tree/master/0837-most-common-word) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AswinDevarj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AswinDevarj/leetcode/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/AswinDevarj/leetcode/tree/master/0498-diagonal-traverse) |
+| [0525-contiguous-array](https://github.com/AswinDevarj/leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AswinDevarj/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/AswinDevarj/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0837-most-common-word](https://github.com/AswinDevarj/leetcode/tree/master/0837-most-common-word) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/AswinDevarj/leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
