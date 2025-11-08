@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AswinDevarj/leetcode/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/AswinDevarj/leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AswinDevarj/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/AswinDevarj/leetcode/tree/master/0648-replace-words) |
 | [0837-most-common-word](https://github.com/AswinDevarj/leetcode/tree/master/0837-most-common-word) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AswinDevarj/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AswinDevarj/leetcode/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AswinDevarj/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/AswinDevarj/leetcode/tree/master/0648-replace-words) |
 | [0837-most-common-word](https://github.com/AswinDevarj/leetcode/tree/master/0837-most-common-word) |
 | [1454-remove-palindromic-subsequences](https://github.com/AswinDevarj/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1714-rearrange-spaces-between-words](https://github.com/AswinDevarj/leetcode/tree/master/1714-rearrange-spaces-between-words) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AswinDevarj/leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/AswinDevarj/leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AswinDevarj/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/AswinDevarj/leetcode/tree/master/0648-replace-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/AswinDevarj/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0837-most-common-word](https://github.com/AswinDevarj/leetcode/tree/master/0837-most-common-word) |
 | [0898-transpose-matrix](https://github.com/AswinDevarj/leetcode/tree/master/0898-transpose-matrix) |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/AswinDevarj/leetcode/tree/master/0525-contiguous-array) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/AswinDevarj/leetcode/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
