@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1714-rearrange-spaces-between-words](https://github.com/AswinDevarj/leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AswinDevarj/leetcode/tree/master/0409-longest-palindrome) |
 | [0979-di-string-match](https://github.com/AswinDevarj/leetcode/tree/master/0979-di-string-match) |
 | [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/AswinDevarj/leetcode/tree/master/0525-contiguous-array) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 ## Trie
 |  |
 | ------- |
