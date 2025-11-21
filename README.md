@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/AswinDevarj/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1714-rearrange-spaces-between-words](https://github.com/AswinDevarj/leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AswinDevarj/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AswinDevarj/leetcode/tree/master/0409-longest-palindrome) |
 | [0979-di-string-match](https://github.com/AswinDevarj/leetcode/tree/master/0979-di-string-match) |
+| [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
 ## Array
 |  |
 | ------- |
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AswinDevarj/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
+## Math
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
