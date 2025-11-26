@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/AswinDevarj/leetcode/tree/master/0979-di-string-match) |
 | [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/AswinDevarj/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1473-paint-house-iii](https://github.com/AswinDevarj/leetcode/tree/master/1473-paint-house-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AswinDevarj/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0313-super-ugly-number](https://github.com/AswinDevarj/leetcode/tree/master/0313-super-ugly-number) |
+| [1473-paint-house-iii](https://github.com/AswinDevarj/leetcode/tree/master/1473-paint-house-iii) |
 ## Backtracking
 |  |
 | ------- |
