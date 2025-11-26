@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/AswinDevarj/leetcode/tree/master/0837-most-common-word) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AswinDevarj/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1331-rank-transform-of-an-array](https://github.com/AswinDevarj/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AswinDevarj/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/AswinDevarj/leetcode/tree/master/0898-transpose-matrix) |
 | [0979-di-string-match](https://github.com/AswinDevarj/leetcode/tree/master/0979-di-string-match) |
 | [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1331-rank-transform-of-an-array](https://github.com/AswinDevarj/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AswinDevarj/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AswinDevarj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/AswinDevarj/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1331-rank-transform-of-an-array](https://github.com/AswinDevarj/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
