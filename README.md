@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/AswinDevarj/leetcode/tree/master/0648-replace-words) |
 | [0837-most-common-word](https://github.com/AswinDevarj/leetcode/tree/master/0837-most-common-word) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AswinDevarj/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AswinDevarj/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/AswinDevarj/leetcode/tree/master/0837-most-common-word) |
 | [0979-di-string-match](https://github.com/AswinDevarj/leetcode/tree/master/0979-di-string-match) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AswinDevarj/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1454-remove-palindromic-subsequences](https://github.com/AswinDevarj/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1714-rearrange-spaces-between-words](https://github.com/AswinDevarj/leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/AswinDevarj/leetcode/tree/master/0837-most-common-word) |
 | [0898-transpose-matrix](https://github.com/AswinDevarj/leetcode/tree/master/0898-transpose-matrix) |
 | [0979-di-string-match](https://github.com/AswinDevarj/leetcode/tree/master/0979-di-string-match) |
+| [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AswinDevarj/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AswinDevarj/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AswinDevarj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/AswinDevarj/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
@@ -153,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/AswinDevarj/leetcode/tree/master/0491-non-decreasing-subsequences) |
+## Depth-First Search
+|  |
+| ------- |
+| [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
+## Union Find
+|  |
+| ------- |
+| [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
 <!---LeetCode Topics End-->
