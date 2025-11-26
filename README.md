@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AswinDevarj/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/AswinDevarj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AswinDevarj/leetcode/tree/master/0217-contains-duplicate) |
+| [0313-super-ugly-number](https://github.com/AswinDevarj/leetcode/tree/master/0313-super-ugly-number) |
 | [0498-diagonal-traverse](https://github.com/AswinDevarj/leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/AswinDevarj/leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AswinDevarj/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -127,9 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0313-super-ugly-number](https://github.com/AswinDevarj/leetcode/tree/master/0313-super-ugly-number) |
 | [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0313-super-ugly-number](https://github.com/AswinDevarj/leetcode/tree/master/0313-super-ugly-number) |
 <!---LeetCode Topics End-->
