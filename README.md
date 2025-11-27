@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1487-making-file-names-unique](https://github.com/AswinDevarj/leetcode/tree/master/1487-making-file-names-unique) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2262-total-appeal-of-a-string](https://github.com/AswinDevarj/leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AswinDevarj/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/AswinDevarj/leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2262-total-appeal-of-a-string](https://github.com/AswinDevarj/leetcode/tree/master/2262-total-appeal-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/AswinDevarj/leetcode/tree/master/0313-super-ugly-number) |
 | [1473-paint-house-iii](https://github.com/AswinDevarj/leetcode/tree/master/1473-paint-house-iii) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/AswinDevarj/leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2262-total-appeal-of-a-string](https://github.com/AswinDevarj/leetcode/tree/master/2262-total-appeal-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
