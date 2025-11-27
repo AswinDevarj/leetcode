@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/AswinDevarj/leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/AswinDevarj/leetcode/tree/master/0525-contiguous-array) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/AswinDevarj/leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Trie
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0313-super-ugly-number](https://github.com/AswinDevarj/leetcode/tree/master/0313-super-ugly-number) |
 | [1473-paint-house-iii](https://github.com/AswinDevarj/leetcode/tree/master/1473-paint-house-iii) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/AswinDevarj/leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Backtracking
 |  |
 | ------- |
