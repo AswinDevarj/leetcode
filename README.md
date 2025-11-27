@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/AswinDevarj/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1487-making-file-names-unique](https://github.com/AswinDevarj/leetcode/tree/master/1487-making-file-names-unique) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AswinDevarj/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AswinDevarj/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1202-smallest-string-with-swaps](https://github.com/AswinDevarj/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1454-remove-palindromic-subsequences](https://github.com/AswinDevarj/leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1487-making-file-names-unique](https://github.com/AswinDevarj/leetcode/tree/master/1487-making-file-names-unique) |
 | [1714-rearrange-spaces-between-words](https://github.com/AswinDevarj/leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AswinDevarj/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AswinDevarj/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1473-paint-house-iii](https://github.com/AswinDevarj/leetcode/tree/master/1473-paint-house-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AswinDevarj/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1487-making-file-names-unique](https://github.com/AswinDevarj/leetcode/tree/master/1487-making-file-names-unique) |
 | [1975-maximum-matrix-sum](https://github.com/AswinDevarj/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AswinDevarj/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
