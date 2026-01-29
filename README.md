@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/AswinDevarj/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AswinDevarj/leetcode/tree/master/0409-longest-palindrome) |
+| [0520-detect-capital](https://github.com/AswinDevarj/leetcode/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AswinDevarj/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/AswinDevarj/leetcode/tree/master/0648-replace-words) |
 | [0722-remove-comments](https://github.com/AswinDevarj/leetcode/tree/master/0722-remove-comments) |
