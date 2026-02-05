@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AswinDevarj/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/AswinDevarj/leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/AswinDevarj/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/AswinDevarj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AswinDevarj/leetcode/tree/master/0217-contains-duplicate) |
 | [0313-super-ugly-number](https://github.com/AswinDevarj/leetcode/tree/master/0313-super-ugly-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AswinDevarj/leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/AswinDevarj/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/AswinDevarj/leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/AswinDevarj/leetcode/tree/master/0898-transpose-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/AswinDevarj/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AswinDevarj/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/AswinDevarj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/AswinDevarj/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1898-maximum-number-of-removable-characters](https://github.com/AswinDevarj/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
