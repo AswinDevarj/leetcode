@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AswinDevarj/leetcode/tree/master/0048-rotate-image) |
 | [0313-super-ugly-number](https://github.com/AswinDevarj/leetcode/tree/master/0313-super-ugly-number) |
 | [1927-sum-game](https://github.com/AswinDevarj/leetcode/tree/master/1927-sum-game) |
+| [2235-add-two-integers](https://github.com/AswinDevarj/leetcode/tree/master/2235-add-two-integers) |
 ## Game Theory
 |  |
 | ------- |
