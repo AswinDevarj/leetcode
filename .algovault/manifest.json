@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-09T10:58:35.255Z",
+  "lastUpdated": "2026-08-09T11:21:26.231Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,7 +15,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786273115255,
+              "syncedAt": 1786274486231,
               "runtime": "0 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
